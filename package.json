@@ -21,7 +21,7 @@
     "fs-extra": "^9.0.1",
     "mongodb": "^3.5.8",
     "multer": "^1.4.2",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "nuxt-vue-multiselect": "^1.0.4"
   },
   "devDependencies": {
